@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TochiEbere
-- 👀 I’m interested in Data Science, Machine Learning, NLP, Computer Vision
+- 👀 I’m interested in Data Science, Machine Learning, NLP, Computer Vision, Data Engineering
 - 🌱 I’m currently building capacity in NLP
 - 📫 How to reach me tochiebby@gmail.com
 
